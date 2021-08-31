@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Kang-Gyeongwon/movie_app_2021.git/static/css/main.e90ab9b9.chunk.css",
-    "main.js": "/Kang-Gyeongwon/movie_app_2021.git/static/js/main.54334b5b.chunk.js",
-    "main.js.map": "/Kang-Gyeongwon/movie_app_2021.git/static/js/main.54334b5b.chunk.js.map",
-    "runtime-main.js": "/Kang-Gyeongwon/movie_app_2021.git/static/js/runtime-main.7f06c5da.js",
-    "runtime-main.js.map": "/Kang-Gyeongwon/movie_app_2021.git/static/js/runtime-main.7f06c5da.js.map",
-    "static/js/2.6637cc96.chunk.js": "/Kang-Gyeongwon/movie_app_2021.git/static/js/2.6637cc96.chunk.js",
-    "static/js/2.6637cc96.chunk.js.map": "/Kang-Gyeongwon/movie_app_2021.git/static/js/2.6637cc96.chunk.js.map",
-    "index.html": "/Kang-Gyeongwon/movie_app_2021.git/index.html",
-    "static/css/main.e90ab9b9.chunk.css.map": "/Kang-Gyeongwon/movie_app_2021.git/static/css/main.e90ab9b9.chunk.css.map",
-    "static/js/2.6637cc96.chunk.js.LICENSE.txt": "/Kang-Gyeongwon/movie_app_2021.git/static/js/2.6637cc96.chunk.js.LICENSE.txt"
+    "main.css": "/movie_app_2021/static/css/main.e90ab9b9.chunk.css",
+    "main.js": "/movie_app_2021/static/js/main.54334b5b.chunk.js",
+    "main.js.map": "/movie_app_2021/static/js/main.54334b5b.chunk.js.map",
+    "runtime-main.js": "/movie_app_2021/static/js/runtime-main.03513fb5.js",
+    "runtime-main.js.map": "/movie_app_2021/static/js/runtime-main.03513fb5.js.map",
+    "static/js/2.bc1941b1.chunk.js": "/movie_app_2021/static/js/2.bc1941b1.chunk.js",
+    "static/js/2.bc1941b1.chunk.js.map": "/movie_app_2021/static/js/2.bc1941b1.chunk.js.map",
+    "index.html": "/movie_app_2021/index.html",
+    "static/css/main.e90ab9b9.chunk.css.map": "/movie_app_2021/static/css/main.e90ab9b9.chunk.css.map",
+    "static/js/2.bc1941b1.chunk.js.LICENSE.txt": "/movie_app_2021/static/js/2.bc1941b1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f06c5da.js",
-    "static/js/2.6637cc96.chunk.js",
+    "static/js/runtime-main.03513fb5.js",
+    "static/js/2.bc1941b1.chunk.js",
     "static/css/main.e90ab9b9.chunk.css",
     "static/js/main.54334b5b.chunk.js"
   ]
